@@ -1,6 +1,2 @@
-# Excel-Projects
-This is a compilation of all my data analysis projects completed solely using Microsoft Excel.
-
-## 1. ROI Analysis of Sales Architecture at AtliQ Hardware to Drive Business Growth
-Identifying High-Growth Products and Strategic Market Opportunities.  
+1. B2B Sales Analysis for Growth Insights 
 [Click Here](https://github.com/RayTiasha/Atliq-Sales-Analysis)

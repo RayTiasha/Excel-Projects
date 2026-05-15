@@ -5,5 +5,5 @@ Collection of data analysis projects for fun and self-learning.<br>
 
 ### Excel
 
-**B2B Sales Analysis for Growth Insights.**<br>
-[Click Here](https://github.com/RayTiasha/Atliq-Sales-Analysis)
+B2B Sales Analysis for Growth Insights.
+[B2B Sales Analysis](https://github.com/RayTiasha/Atliq-Sales-Analysis): An analysis to transform raw hardware sales data into a strategic roadmap by identifying high-growth product categories and regional market opportunities to optimize AtliQ Hardware's 2022 marketing budget and supply chain efficiency.

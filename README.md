@@ -5,4 +5,4 @@ Collection of data analysis projects for fun and self-learning.<br>
 
 ### Excel
 
-[B2B Sales Trend](https://github.com/RayTiasha/Atliq-Sales-Analysis): An analysis to transform raw hardware sales data into a strategic roadmap by identifying high-growth product categories and regional market opportunities to optimize AtliQ Hardware's 2022 marketing budget and supply chain efficiency.
+[Sales Performance Analysis](https://github.com/RayTiasha/Atliq-Sales-Analysis): Insights for sales team to better allocate product resources for FY22.in efficiency.

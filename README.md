@@ -5,4 +5,4 @@ Collection of data analysis projects for fun and self-learning.<br>
 
 ### Excel
 
-[Sales Performance Analysis](https://github.com/RayTiasha/Atliq-Sales-Analysis): Insights for sales team to better allocate product resources for FY22.
+[ Atlic Hardware Sales Performance Analysis](https://github.com/RayTiasha/Atliq-Sales-Analysis): Insights for the sales team based on the past two years of net sales for product allocation in FY22.
